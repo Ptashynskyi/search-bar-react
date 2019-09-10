@@ -1,6 +1,7 @@
 For start project:<br>
 npm install<br>
 npm install axios<br>
+npm start<br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
