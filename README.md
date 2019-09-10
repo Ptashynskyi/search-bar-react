@@ -1,3 +1,7 @@
+For start project:
+npm install
+npm install axios
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
