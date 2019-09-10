@@ -137,7 +137,7 @@ class Search extends Component {
     return (
       <div className="container">
         {/*	Heading*/}
-        <h2 className="heading">Seaech pictures</h2>
+        <h2 className="heading">Search pictures</h2>
         {/* Search Input*/}
         <label className="search-label" htmlFor="search-input">
           <input
